@@ -8,4 +8,12 @@ int main()
         printf("%d ",i);
         i=i-2;
     }
+printf("\n");
+    int j=100;
+    for(j<=100;j>=0;j=j-2)
+    {
+        printf("%d ",j);
+    }
+
+
 }
